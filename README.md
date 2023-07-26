@@ -12,4 +12,4 @@ sadece Login buttonunda command kodu aktiftir. Butona bastığınızda basit bir
 
 1920x1080 çözünürlükte fullscreen başlatılacak şekilde ayarlanmıştır.
 
-![image](https://github.com/oguzhanyazman/ktinkter_LoginUI1920x1080_PY/assets/36090819/25a9385e-1bb1-4cc4-ab2d-b828a3e0752b)
+![Screenshot_1](https://github.com/oguzhanyazman/ktinkter_LoginUI1920x1080_PY/assets/36090819/e4ae8bcf-9714-45e6-ab72-937276fd0201)
